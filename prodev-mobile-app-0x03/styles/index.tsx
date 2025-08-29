@@ -10,8 +10,8 @@ const styles = StyleSheet.create({
   navGroup: {
     flexDirection: "row",
     justifyContent: "space-between",
-    marginBottom: 0,
-    marginTop: 0,
+    marginBottom: 20,
+    marginTop: 11,
   },
   largeText: {
     fontSize: 40,
@@ -43,7 +43,7 @@ const styles = StyleSheet.create({
     borderColor: "#7e7b7b",
   },
   formGroup: {
-    marginTop: 20,
+    marginTop: 44,
   },
   forgotPasswordText: {
     fontSize: 17,
@@ -77,7 +77,7 @@ const styles = StyleSheet.create({
   },
   socialMediaButtonGroup: {
     gap: 15,
-    marginTop: 20,
+    marginTop: 25,
   },
   dividerGroup: {
     flexDirection: "row",
@@ -98,8 +98,8 @@ const styles = StyleSheet.create({
     width: "100%",
     flexDirection: "row",
     position: "absolute",
-    bottom: 20,
-    left: 70,
+    bottom: 33,
+    left: 77,
     right: 76,
   },
   subText: {
