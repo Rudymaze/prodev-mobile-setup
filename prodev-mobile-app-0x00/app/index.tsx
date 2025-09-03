@@ -11,6 +11,7 @@ export default function Index() {
       }}>
       <Text>Edit app/index.tsx to edit this screen.</Text>
       <Text>Visit the about Page</Text>
+      <Text>Click the button below to go to the about page</Text>
       <Link
         href={"/about"}
         style={{ padding: 10, backgroundColor: "lightblue", borderRadius: 15 }}>
